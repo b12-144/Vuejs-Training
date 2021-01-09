@@ -1,4 +1,4 @@
-# Vuejs-Crash-Course
+# Vuejs Training
 Complete tutorial + Sample Project covering most of Vue's features
 
 <!--toc generated automatically by running markdown-toc -i Vue.md-->
